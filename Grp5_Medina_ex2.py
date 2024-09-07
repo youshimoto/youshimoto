@@ -49,10 +49,9 @@ print("Modulus (complex): ", result_mod)
 print("Exponent (complex): ", result_exp)
 
 #2 
-num1 = 25_000_000 
-num2 = 25000000    
-
-print(num1)
+num1 = 25_000_000
+num2 = 25000000
+print(f"{num1:_}")
 print(num2)
 
 #3 
